@@ -1,0 +1,54 @@
+{
+  "color": {
+    "neutral": {
+      "50": {
+        "light": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "100": {
+        "light": {
+          "value": "invalid-color",
+          "type": "color"
+        },
+        "dark": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "transparent": {
+      "value": "transparent",
+      "type": "color"
+    }
+  },
+  "spacing": {
+    "small": {
+      "value": "0.5rem",
+      "type": "sizing"
+    },
+    "invalid": {
+      "value": "invalid-number",
+      "type": "sizing"
+    }
+  },
+  "font": {
+    "size": {
+      "small": {
+        "value": "0.875rem",
+        "type": "fontsize"
+      }
+    },
+    "weight": {
+      "bold": {
+        "value": "700",
+        "type": "fontweight"
+      }
+    }
+  }
+} 
